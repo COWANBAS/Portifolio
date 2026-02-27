@@ -1,1 +1,1 @@
-Interface simples e minimalista em HTML para exibição de documentos em site. Para subir a interface, é só copiar o index.html e colocar um arquivo PDF com o nome (curriculo.pdf). E possivel alterar o nome, tipo de documento e informações que deseja colocar no site.
+Interface simples e minimalista em HTML para exibição de documentos em site. Para subir a interface, é só copiar o index.html e colocar um arquivo PDF com o nome referente a (curriculo.pdf). É possível alterar o nome, tipo de documento e informações que deseja colocar no site.
