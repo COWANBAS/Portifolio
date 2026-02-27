@@ -1,1 +1,3 @@
 Script simples em HTML para exibição de currículo nos sites do LinkedIn. Para subir a interface, é só copiar o index.html e colocar um arquivo PDF com o nome 'curriculo.pdf'. Altere as informações que deseja passar na interface do site no index.html.
+
+vou deixar também o template do meu currículo.
